@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Med</h1>
 
-## 💫 About Me:
+## 👨🏻‍💻 About Me:
 ###
 I'm Mohamed, a cybersecurity engineering student with a strong foundation in software development. </br>
 My passion lies at the intersection of secure coding and modern application design.
