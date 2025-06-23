@@ -1,14 +1,26 @@
 <h1 align="center">Hi 👋, I'm Med</h1>
 
-## 👨🏻‍💻 About Me:
-###
-I'm Mohamed, a cybersecurity engineering student with a strong foundation in software development. </br>
-My passion lies at the intersection of secure coding and modern application design.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Student-%23blue" alt="Cybersecurity Student"/>
+  <img src="https://img.shields.io/badge/DevSecOps%20Enthusiast-%23green" alt="DevSecOps Enthusiast"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%23orange" alt="Open Source Contributor"/>
+</p>
 
-## 🔐 **Aspiring Application Security Engineer**  
-###
-Currently learning and building projects to bridge the gap between development and security.
+## 👨🏻‍💻 About Me
 
+I'm **Mohamed**, a cybersecurity engineering student with a strong background in software development. <br>
+I'm passionate about integrating security into every phase of the software development lifecycle. <br>
+My focus is on building modern, secure, and scalable applications by combining development skills with security best practices.
+
+---
+
+## 🔐 Aspiring DevSecOps Engineer
+
+🚀 I’m focused on mastering DevSecOps — integrating security into CI/CD pipelines, automating security testing, and building resilient, secure systems. <br>
+🛠️ I work on projects that combine development, operations, and security to deliver safer software at speed. <br>
+⚡ I believe security should be automated, scalable, and a shared responsibility across teams. <br>
+
+---
 ## 🌐 Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/elanaami/" target="_blank">
