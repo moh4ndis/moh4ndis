@@ -6,32 +6,7 @@
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%23orange" alt="Open Source Contributor"/>
 </p>
 
-## 👨🏻‍💻 About Me
-
-I'm **Mohamed**, a cybersecurity engineering student with a strong background in software development. <br>
-I'm passionate about integrating security into every phase of the software development lifecycle. <br>
-My focus is on building modern, secure, and scalable applications by combining development skills with security best practices.
-
 ---
-
-## 🔐 Aspiring DevSecOps Engineer
-
-🚀 I’m focused on mastering DevSecOps — integrating security into CI/CD pipelines, automating security testing, and building resilient, secure systems. <br>
-🛠️ I work on projects that combine development, operations, and security to deliver safer software at speed. <br>
-⚡ I believe security should be automated, scalable, and a shared responsibility across teams. <br>
-
----
-## 🌐 Socials:
-<div align="center">
-  <a href="https://www.linkedin.com/in/elanaami/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@moh4ndis" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-</div>
-
-###
 
 ## 💻 Tech Stack:
 ###
@@ -81,12 +56,22 @@ My focus is on building modern, secure, and scalable applications by combining d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
 
-###
+---
+
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moh4ndis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moh4ndis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+## 🌐 Socials:
+<div align="center">
+  <a href="https://www.linkedin.com/in/elanaami/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@moh4ndis" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
 
