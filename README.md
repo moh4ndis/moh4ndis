@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Med</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity%20Student-%23blue" alt="Cybersecurity Student"/>
   <img src="https://img.shields.io/badge/DevSecOps%20Enthusiast-%23green" alt="DevSecOps Enthusiast"/>
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%23orange" alt="Open Source Contributor"/>
-</p>
+</p> -->
 
 ---
 
